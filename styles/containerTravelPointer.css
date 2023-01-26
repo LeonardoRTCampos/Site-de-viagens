@@ -1,0 +1,65 @@
+.container-travelpointer {
+  display: flex;
+  background-color: white;
+  padding: 5rem 3rem;
+}
+
+.travelpointer {
+  margin-left: 2rem;
+}
+
+.travelpointer h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  color: #295943;
+}
+.travelpointer h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+  color: #3d3e48;
+  margin: 1.5rem 0;
+}
+
+.travelpointer p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+}
+
+.travelpointer-grid {
+  margin-top: 1rem;
+}
+
+.travelpointer-grid ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1rem;
+}
+
+.travelpointer-grid ul li h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+  color: #295943;
+  margin-bottom: 0.8rem;
+}
+.travelpointer-grid ul li p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+}

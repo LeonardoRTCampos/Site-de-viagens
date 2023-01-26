@@ -1,0 +1,71 @@
+.container-apresentacao {
+  background-image: url("../imagens/imagensAprentacao/Background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
+.menu-nav {
+  display: flex;
+  padding: 2rem 3rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-nav h1 {
+  text-decoration: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 33.18px;
+  line-height: 120%;
+  color: #ffffff;
+}
+
+.menu-nav nav ul {
+  display: flex;
+  padding: 0 2rem;
+}
+
+.menu-nav nav ul li {
+  padding: 0 1.5rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+}
+
+.menu-nav p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 180%;
+}
+
+.explore-world {
+  padding: 7rem 18rem 22rem 18rem;
+}
+
+.explore-world h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47.78px;
+  line-height: 120%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.explore-world p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin: 2rem 0;
+}
