@@ -1,0 +1,62 @@
+.container-testemunhas {
+  padding: 3rem;
+  text-align: center;
+}
+.container-testemunhas h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  text-transform: capitalize;
+  color: #295943;
+}
+.container-testemunhas h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+  color: #3d3e48;
+}
+.gridTestemunhas {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem 2rem;
+  margin: 4rem 0;
+}
+.testemunha-usuario {
+  padding: 0.5rem;
+}
+
+.gridTestemunhas div:hover {
+  background-color: #43b97f;
+  cursor: pointer;
+}
+
+.gridTestemunhas div div {
+  display: flex;
+  align-items: center;
+}
+.gridTestemunhas div div img {
+  margin-right: 1rem;
+}
+.gridTestemunhas div div h4 {
+  margin-right: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23.04px;
+  line-height: 120%;
+  color: #3d3e48;
+}
+.gridTestemunhas div p {
+  margin-top: 2rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+  text-align: start;
+}

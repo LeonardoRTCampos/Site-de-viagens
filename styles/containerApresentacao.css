@@ -27,13 +27,16 @@
   padding: 0 2rem;
 }
 
-.menu-nav nav ul li {
-  padding: 0 1.5rem;
+.menu-nav nav ul li a {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 180%;
+  color: #ffffff;
+  margin-left: 0.5rem;
 }
 
 .menu-nav p {
@@ -45,7 +48,7 @@
 }
 
 .explore-world {
-  padding: 7rem 18rem 22rem 18rem;
+  padding: 7rem 16rem 22rem 16rem;
 }
 
 .explore-world h1 {
