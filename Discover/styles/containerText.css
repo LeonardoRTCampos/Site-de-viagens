@@ -1,0 +1,106 @@
+.container-text {
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  line-height: 180%;
+  font-weight: 400;
+  font-size: 16px;
+}
+.container-text p {
+  margin-bottom: 1rem;
+}
+
+.container-text-first {
+  display: flex;
+}
+
+.container-text-first b {
+  font-weight: 700;
+  font-size: 67.9392px;
+  line-height: 120%;
+  margin-right: 2.5rem;
+}
+
+.container-text-imgpaisagem {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.container-text-location {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  align-items: center;
+  color: #3d3e48;
+}
+.container-text h2 {
+  font-size: 27.65px;
+  line-height: 120%;
+  text-transform: capitalize;
+  color: #3d3e48;
+}
+.container-text-imglados {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.maps-destination {
+  display: grid;
+  grid-template-rows: 0.8fr 4fr;
+  gap: 2rem;
+}
+
+.otherdestination {
+  background-image: url("../Imagens/otherDestination.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.descotherdestination {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.descotherdestination h2 {
+  font-weight: 400;
+  font-size: 19.2px;
+  line-height: 180%;
+}
+.descotherdestination a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 19.2px;
+  line-height: 180%;
+  color: #43b97f;
+}
+
+.grid-other-destination {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+.otherdestination {
+  color: white;
+  font-weight: 700;
+  padding: 2rem 1rem;
+}
+.otherdestination h4 {
+  font-size: 19.2px;
+  line-height: 180%;
+}
+.otherdestination p {
+  margin: 2rem 0;
+  font-size: 12px;
+  line-height: 180%;
+}
+.otherdestination button {
+  background: #43b97f;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+}
