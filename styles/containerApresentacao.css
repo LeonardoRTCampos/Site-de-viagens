@@ -39,6 +39,12 @@
   margin-left: 0.5rem;
 }
 
+.menu-nav nav ul li a:hover {
+  cursor: pointer;
+  transition: 2000ms;
+  color: #43b97f;
+}
+
 .menu-nav p {
   font-family: "Poppins";
   font-style: normal;
