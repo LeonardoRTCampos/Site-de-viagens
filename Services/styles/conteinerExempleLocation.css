@@ -1,0 +1,86 @@
+.container-exempleLocation {
+  padding: 5rem 3rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+}
+
+.exampleLocation-first {
+  display: flex;
+  margin-bottom: 4rem;
+}
+
+.exampleLocation-first h3 {
+  font-weight: 700;
+  font-size: 19.2px;
+  line-height: 180%;
+  padding: 1rem 0;
+}
+
+.exampleLocation-first p {
+  font-size: 16px;
+  line-height: 180%;
+}
+
+.exampleLocation-first button {
+  position: absolute;
+  background: #43b97f;
+  border-radius: 15px;
+  border: none;
+  padding: 0.7rem 1rem;
+  color: white;
+  margin-top: 1rem;
+}
+
+.exampleLocation-second {
+  display: flex;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.exampleLocation-second div {
+  padding: 1.5rem;
+  margin: 4rem 0;
+}
+
+.exampleLocation-second div:first-child {
+  background-image: url("../Imagens/rect1.png");
+  background-repeat: no-repeat;
+}
+.exampleLocation-second div:nth-child(2) {
+  background-image: url("../Imagens/rect2.png");
+  background-repeat: no-repeat;
+}
+.exampleLocation-second div:last-child {
+  background-image: url("../Imagens/rect3.png");
+  background-repeat: no-repeat;
+}
+
+.exampleLocation-second h4 {
+  font-weight: 700;
+  font-size: 23.04px;
+  line-height: 120%;
+}
+.exampleLocation-second b {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+}
+.exampleLocation-second p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 1rem 0;
+}
+.exampleLocation-second button {
+  padding: 0.3rem 1rem;
+  border-color: #43b97f;
+  border-radius: 8px;
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  color: #ffffff;
+}

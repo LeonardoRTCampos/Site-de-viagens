@@ -1,0 +1,63 @@
+.container-facilities {
+  background-image: url("../Imagens/backFacilities.png");
+  background-repeat: no-repeat;
+  max-width: 100%;
+  padding: 5rem 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+.container-facilities-first h2 {
+  font-weight: 700;
+  font-size: 47.78px;
+  line-height: 120%;
+}
+
+.container-facilities-first p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 2rem 0;
+}
+.container-facilities-first button {
+  position: absolute;
+  background: #43b97f;
+  border-radius: 6px;
+  border: none;
+  padding: 0.7rem 1rem;
+  font-weight: 700;
+  color: white;
+  margin-top: 1rem;
+}
+
+.container-facilities-second {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+}
+.container-facilities-second div {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 2rem 0;
+  display: block;
+}
+.container-facilities-second h3 {
+  font-weight: 700;
+  font-size: 39.81px;
+  line-height: 120%;
+}
+.container-facilities-second p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+}
