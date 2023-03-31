@@ -1,0 +1,66 @@
+.container-traveleja-articles {
+  padding: 5rem 3rem;
+  text-align: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.container-traveleja-articles h2 {
+  font-size: 27.65px;
+  line-height: 120%;
+}
+
+.container-traveleja-articles p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 1rem 0;
+}
+
+.OurNews-MenuNav {
+  margin: 2rem;
+}
+
+.OurNews-MenuNav nav ul {
+  display: flex;
+  justify-content: center;
+}
+.OurNews-MenuNav nav ul li {
+  margin-right: 1rem;
+}
+.OurNews-MenuNav nav ul li a {
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+}
+.OurNews-MenuNav nav ul li a:hover {
+  transition: 1s;
+  background-color: #43b97f;
+  color: white;
+  border-radius: 10px;
+}
+
+.OurNews-Articles {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+.OurNews-Articles div h3 {
+  font-size: 19.2px;
+  line-height: 180%;
+  color: #000000;
+  text-align: start;
+}
+
+.OurNews-Articles div p {
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+  text-align: start;
+  margin: 0;
+}
