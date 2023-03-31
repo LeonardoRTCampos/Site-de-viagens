@@ -1,0 +1,58 @@
+.container-ourservices {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+  padding: 5rem 3rem;
+}
+
+.container-ourservices p {
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+}
+
+.container-ourservices h3 {
+  font-weight: 700;
+  font-size: 33.18px;
+  line-height: 120%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.container-ourservices-division {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 4rem 1rem;
+  margin-bottom: 3rem;
+}
+
+.container-ourservices-division-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+}
+
+.container-ourservices-division h4 {
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+}
+
+.container-ourservices-division p {
+  font-size: 16px;
+  line-height: 180%;
+  text-align: start;
+  margin: 1rem 0;
+}
+
+.container-ourservices-division button {
+  position: absolute;
+  background: #43b97f;
+  border-radius: 6px;
+  border: none;
+  padding: 0.7rem 1rem;
+  font-weight: 700;
+  color: white;
+}
