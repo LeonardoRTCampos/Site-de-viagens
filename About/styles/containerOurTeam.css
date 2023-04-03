@@ -1,0 +1,45 @@
+.container-ourTeams {
+  padding: 5rem 3rem;
+  text-align: start;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+}
+
+.container-ourTeams h3 {
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+}
+
+.container-ourTeams p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 0.7rem 0;
+}
+
+.container-ourTeams-div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.container-ourTeams-div div h4 {
+  font-size: 19.2px;
+  line-height: 180%;
+  color: #000000;
+}
+
+.container-ourTeams-div div p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 0;
+  color: #3d3e48;
+}
+.container-imgOrientacao {
+  display: flex;
+  justify-content: space-around;
+  margin: 3rem 2rem 7rem 2rem;
+}

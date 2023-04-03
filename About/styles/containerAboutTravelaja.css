@@ -1,0 +1,22 @@
+.container-aboutTravelaja {
+  padding: 2rem 3rem;
+  display: flex;
+  align-items: center;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+  gap: 1rem;
+}
+
+.container-aboutTravelaja h3 {
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+}
+
+.container-aboutTravelaja p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 1rem 0;
+}

@@ -1,0 +1,38 @@
+.container-whychoose {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  padding: 5rem 3rem;
+  text-align: center;
+}
+
+.container-whychoose h2 {
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+  color: #3d3e48;
+}
+
+.container-whychoose p {
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+  margin-bottom: 2rem;
+}
+
+.container-whychoose-div {
+  display: flex;
+}
+
+.container-whychoose-div h3 {
+  font-size: 23.04px;
+  line-height: 120%;
+  color: #3d3e48;
+  margin: 1rem 0;
+}
+
+.container-whychoose-div p {
+  font-size: 16px;
+  line-height: 180%;
+  color: #3d3e48;
+}

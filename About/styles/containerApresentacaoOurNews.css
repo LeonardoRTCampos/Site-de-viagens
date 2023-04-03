@@ -1,14 +1,12 @@
-@import "../../menunav.css";
-
-.container-discover {
-  background-image: url("../Imagens/apresentacao.png");
+.container-OurNews {
+  background-image: url("../Imagens/Banner.png");
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
   position: relative;
 }
 
-.container-discover h1 {
+.container-OurNews h1 {
   font-weight: 700;
   font-size: 33.18px;
   line-height: 120%;
