@@ -1,0 +1,85 @@
+.container-getInTouch {
+  padding: 5rem 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  color: #3d3e48;
+}
+
+.container-textandInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-textandInput h2 {
+  font-weight: 700;
+  font-size: 27.65px;
+  line-height: 120%;
+}
+
+.container-textandInput p {
+  font-size: 16px;
+  line-height: 180%;
+  margin: 1rem 0;
+}
+
+.container-textandInput label,
+button {
+  margin-top: 1rem;
+}
+
+.container-textandInput input {
+  margin-top: 0.3rem;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #a8a7ab;
+  font-size: 16px;
+  line-height: 180%;
+  color: #a8a7ab;
+}
+
+.container-textandInput button {
+  align-self: flex-start;
+  background: #43b97f;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 180%;
+  padding: 0.5rem 2rem;
+  border: none;
+  color: white;
+}
+
+.container-mapsEndereco {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+.container-endereco {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.container-endereco div div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.container-endereco div p {
+  font-size: 16px;
+  line-height: 180%;
+}
+
+.container-endereco div b {
+  font-weight: 700;
+}
+
+.container-endereco div span {
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+}

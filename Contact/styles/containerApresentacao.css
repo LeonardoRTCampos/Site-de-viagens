@@ -1,0 +1,17 @@
+.container-contact {
+  background-image: url("../Imagens/banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  position: relative;
+}
+
+.container-contact h1 {
+  font-weight: 700;
+  font-size: 33.18px;
+  line-height: 120%;
+  color: #ffffff;
+  padding-left: 2rem;
+  padding-top: 11rem;
+  padding-bottom: 2.8rem;
+}
